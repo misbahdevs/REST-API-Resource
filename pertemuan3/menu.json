@@ -1,0 +1,22 @@
+[
+    {
+        "nama" : "ayam geprek juara",
+        "harga" : 15000
+    },
+    {
+        "nama" : "ayam geprek mozarella",
+        "harga" : 22000
+    },
+    {
+        "nama" : "ayam geprek sambal ijo",
+        "harga" : 17000
+    },
+    {
+        "nama" : "teman ayam",
+        "harga" : 5000
+    },
+    {
+        "nama" : "jamur crispy",
+        "harga" : 6000
+    }
+]
